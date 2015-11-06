@@ -4,3 +4,6 @@
 [submodule "M1COO"]
 	path = M1COO
 	url = https://github.com/jecisc/M1COO.git
+[submodule "ConduiteProjet"]
+	path = ConduiteProjet
+	url = https://github.com/jecisc/ConduiteProjet.git
