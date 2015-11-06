@@ -1,0 +1,6 @@
+[submodule "M1SGBD"]
+	path = M1SGBD
+	url = https://github.com/jecisc/M1SGBD.git
+[submodule "M1COO"]
+	path = M1COO
+	url = https://github.com/jecisc/M1COO.git
