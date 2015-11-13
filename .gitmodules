@@ -7,3 +7,6 @@
 [submodule "ConduiteProjet"]
 	path = ConduiteProjet
 	url = https://github.com/jecisc/ConduiteProjet.git
+[submodule "M1JdE"]
+	path = M1JdE
+	url = https://github.com/jecisc/M1JdE.git
