@@ -10,3 +10,6 @@
 [submodule "M1JdE"]
 	path = M1JdE
 	url = https://github.com/jecisc/M1JdE.git
+[submodule "M1ED"]
+	path = M1ED
+	url = https://github.com/jecisc/M1ED.git
