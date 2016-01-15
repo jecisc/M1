@@ -16,3 +16,6 @@
 [submodule "M1OBDD"]
 	path = M1OBDD
 	url = https://github.com/jecisc/M1OBDD.git
+[submodule "M1FdD"]
+	path = M1FdD
+	url = https://github.com/jecisc/M1FdD.git
