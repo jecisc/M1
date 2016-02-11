@@ -19,3 +19,6 @@
 [submodule "M1FdD"]
 	path = M1FdD
 	url = https://github.com/jecisc/M1FdD.git
+[submodule "M1PAI"]
+	path = M1PAI
+	url = https://github.com/jecisc/M1PAI.git
