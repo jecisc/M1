@@ -22,3 +22,6 @@
 [submodule "M1PAI"]
 	path = M1PAI
 	url = https://github.com/jecisc/M1PAI.git
+[submodule "M1PAI_GUI"]
+	path = M1PAI_GUI
+	url = https://github.com/jecisc/M1PAI_GUI.git
