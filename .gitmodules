@@ -25,3 +25,7 @@
 [submodule "M1PAI_GUI"]
 	path = M1PAI_GUI
 	url = https://github.com/jecisc/M1PAI_GUI.git
+[submodule "M1CAR"]
+	path = M1CAR
+[submodule "M1CAR"]
+	url = https://github.com/Rousscot/M1CAR.git
